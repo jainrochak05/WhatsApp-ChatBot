@@ -94,6 +94,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📝 License
 This project is licensed under the MIT License.
-```
 
-Would you like me to draft a `.gitignore` file to go with this repository?
